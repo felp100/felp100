@@ -1,0 +1,17 @@
+# sobre mim **felipe**
+- 👋**ola eu sou @felp100**
+- :+1: o meu [e-mail](felipe.jesuz@escola.pr.gov.br)
+- :+1: eu estou interessado em aprender novas linguagens
+- 👀 eu estou recentemente aprendendo a programar na linguagem de java script e scratch 
+- 🌱 I’m recently learnimg to program in java script and scratch.
+- 💞️ every bird that flies has overcome the fear of falling
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+- ![](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
+- ![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+- ![]()
+- ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+- ![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+- ![](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
